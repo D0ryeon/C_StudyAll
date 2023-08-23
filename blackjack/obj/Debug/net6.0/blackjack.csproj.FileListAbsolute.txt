@@ -1,0 +1,15 @@
+D:\VS\StudyC#2\blackjack\bin\Debug\net6.0\blackjack.exe
+D:\VS\StudyC#2\blackjack\bin\Debug\net6.0\blackjack.deps.json
+D:\VS\StudyC#2\blackjack\bin\Debug\net6.0\blackjack.runtimeconfig.json
+D:\VS\StudyC#2\blackjack\bin\Debug\net6.0\blackjack.dll
+D:\VS\StudyC#2\blackjack\bin\Debug\net6.0\blackjack.pdb
+D:\VS\StudyC#2\blackjack\obj\Debug\net6.0\blackjack.csproj.AssemblyReference.cache
+D:\VS\StudyC#2\blackjack\obj\Debug\net6.0\blackjack.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\StudyC#2\blackjack\obj\Debug\net6.0\blackjack.AssemblyInfoInputs.cache
+D:\VS\StudyC#2\blackjack\obj\Debug\net6.0\blackjack.AssemblyInfo.cs
+D:\VS\StudyC#2\blackjack\obj\Debug\net6.0\blackjack.csproj.CoreCompileInputs.cache
+D:\VS\StudyC#2\blackjack\obj\Debug\net6.0\blackjack.dll
+D:\VS\StudyC#2\blackjack\obj\Debug\net6.0\refint\blackjack.dll
+D:\VS\StudyC#2\blackjack\obj\Debug\net6.0\blackjack.pdb
+D:\VS\StudyC#2\blackjack\obj\Debug\net6.0\blackjack.genruntimeconfig.cache
+D:\VS\StudyC#2\blackjack\obj\Debug\net6.0\ref\blackjack.dll

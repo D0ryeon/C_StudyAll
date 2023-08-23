@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "HamIne Dungeon": {
+      "commandName": "Project",
+      "commandLineArgs": "/source-charset:utf-8"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

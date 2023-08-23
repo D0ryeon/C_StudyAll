@@ -1,0 +1,15 @@
+D:\VS\StudyC#2\StudyC#2\bin\Debug\net6.0\StudyC#2.exe
+D:\VS\StudyC#2\StudyC#2\bin\Debug\net6.0\StudyC#2.deps.json
+D:\VS\StudyC#2\StudyC#2\bin\Debug\net6.0\StudyC#2.runtimeconfig.json
+D:\VS\StudyC#2\StudyC#2\bin\Debug\net6.0\StudyC#2.dll
+D:\VS\StudyC#2\StudyC#2\bin\Debug\net6.0\StudyC#2.pdb
+D:\VS\StudyC#2\StudyC#2\obj\Debug\net6.0\StudyC#2.csproj.AssemblyReference.cache
+D:\VS\StudyC#2\StudyC#2\obj\Debug\net6.0\StudyC#2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\StudyC#2\StudyC#2\obj\Debug\net6.0\StudyC#2.AssemblyInfoInputs.cache
+D:\VS\StudyC#2\StudyC#2\obj\Debug\net6.0\StudyC#2.AssemblyInfo.cs
+D:\VS\StudyC#2\StudyC#2\obj\Debug\net6.0\StudyC#2.csproj.CoreCompileInputs.cache
+D:\VS\StudyC#2\StudyC#2\obj\Debug\net6.0\StudyC#2.dll
+D:\VS\StudyC#2\StudyC#2\obj\Debug\net6.0\refint\StudyC#2.dll
+D:\VS\StudyC#2\StudyC#2\obj\Debug\net6.0\StudyC#2.pdb
+D:\VS\StudyC#2\StudyC#2\obj\Debug\net6.0\StudyC#2.genruntimeconfig.cache
+D:\VS\StudyC#2\StudyC#2\obj\Debug\net6.0\ref\StudyC#2.dll

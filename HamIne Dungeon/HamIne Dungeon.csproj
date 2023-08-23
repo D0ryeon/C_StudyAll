@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>HamIne_Dungeon</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\VS\StudyC#2\HamIne Dungeon\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\VS\StudyC#2\HamIne Dungeon\.editorconfig" />
+  </ItemGroup>
+
+</Project>

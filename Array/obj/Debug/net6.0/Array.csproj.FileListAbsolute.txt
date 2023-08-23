@@ -1,0 +1,15 @@
+D:\VS\StudyC#2\Array\bin\Debug\net6.0\Array.exe
+D:\VS\StudyC#2\Array\bin\Debug\net6.0\Array.deps.json
+D:\VS\StudyC#2\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+D:\VS\StudyC#2\Array\bin\Debug\net6.0\Array.dll
+D:\VS\StudyC#2\Array\bin\Debug\net6.0\Array.pdb
+D:\VS\StudyC#2\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+D:\VS\StudyC#2\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\StudyC#2\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\VS\StudyC#2\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\VS\StudyC#2\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\VS\StudyC#2\Array\obj\Debug\net6.0\Array.dll
+D:\VS\StudyC#2\Array\obj\Debug\net6.0\refint\Array.dll
+D:\VS\StudyC#2\Array\obj\Debug\net6.0\Array.pdb
+D:\VS\StudyC#2\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+D:\VS\StudyC#2\Array\obj\Debug\net6.0\ref\Array.dll
